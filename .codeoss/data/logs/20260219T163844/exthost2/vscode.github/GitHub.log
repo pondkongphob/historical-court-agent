@@ -1,0 +1,2 @@
+2026-02-19 16:42:44.921 [info] Log level: Info
+2026-02-19 17:35:22.458 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for pondkongphob/historical-court-agent: Error: No GitHub authentication session available.

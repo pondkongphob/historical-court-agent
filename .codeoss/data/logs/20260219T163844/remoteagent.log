@@ -1,0 +1,18 @@
+2026-02-19 16:38:44.295 [info] 
+
+
+
+
+2026-02-19 16:38:44.328 [info] Extension host agent started.
+2026-02-19 16:38:44.387 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student_02_778cb9309bba/.codeoss/extensions
+2026-02-19 16:38:44.421 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student_02_778cb9309bba/.codeoss/extensions
+2026-02-19 16:38:46.276 [info] [127.0.0.1][b6626d50][ManagementConnection] New connection established.
+2026-02-19 16:38:46.289 [info] [127.0.0.1][1780b98e][ExtensionHostConnection] New connection established.
+2026-02-19 16:38:49.282 [info] [127.0.0.1][1780b98e][ExtensionHostConnection] <1389> Launched Extension Host Process.
+2026-02-19 16:42:38.431 [info] [127.0.0.1][b6626d50][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-02-19 16:42:38.643 [info] [127.0.0.1][1780b98e][ExtensionHostConnection] <1389> Extension Host Process exited with code: 0, signal: null.
+2026-02-19 16:42:39.604 [info] [127.0.0.1][36f6d9cd][ManagementConnection] New connection established.
+2026-02-19 16:42:39.651 [info] [127.0.0.1][8ee0063c][ExtensionHostConnection] New connection established.
+2026-02-19 16:42:39.656 [info] [127.0.0.1][8ee0063c][ExtensionHostConnection] <1530> Launched Extension Host Process.
+2026-02-19 17:31:12.667 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-02-19 17:44:35.613 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

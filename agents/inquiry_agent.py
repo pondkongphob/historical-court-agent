@@ -1,0 +1,22 @@
+import wikipedia
+
+wikipedia.set_lang("en")
+
+def inquiry_agent(topic, state):
+    """
+    Agent A: Researcher
+    Fetch full Wikipedia content for the topic
+    """
+
+    state["topic"] = topic
+
+    try:
+        page = wikipedia.page(topic, auto_suggest=False)
+        state["wiki_text"] = page.content
+
+        print("✅ Inquiry SUCCESS")
+        print("Loaded text length:", len(state["wiki_text"]))
+
+    except Exception as e:
+        print("❌ Inquiry error:", e)
+        state["wiki_text"] = ""

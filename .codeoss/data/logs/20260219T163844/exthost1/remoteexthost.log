@@ -1,0 +1,18 @@
+2026-02-19 16:38:51.117 [info] Extension host with pid 1389 started
+2026-02-19 16:38:51.422 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-19 16:38:51.595 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-02-19 16:38:51.644 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-02-19 16:38:51.644 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-19 16:38:51.946 [info] Eager extensions activated
+2026-02-19 16:38:51.946 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:38:51.947 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:38:51.948 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-02-19 16:38:51.948 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:38:51.949 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:38:51.949 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:38:54.786 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-19 16:38:54.787 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-19 16:38:54.787 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-19 16:38:55.206 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-02-19 16:42:38.500 [info] Extension host terminating: received terminate message from renderer
+2026-02-19 16:42:38.568 [info] Extension host with pid 1389 exiting with code 0
